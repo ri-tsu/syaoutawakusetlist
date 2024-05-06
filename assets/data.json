@@ -3,53 +3,51 @@
     "date": "2024-05-06T01:45:53Z",
     "vid": "Nuo59hjpCvk",
     "setlist": [
-      [
-        {
-          "timecode": "12:42",
-          "artist": "じん feat.IA",
-          "song": "アウターサイエンス"
-        },
-        {
-          "timecode": "17:49",
-          "artist": "じん feat.IA",
-          "song": "夜咄ディセイブ"
-        },
-        {
-          "timecode": "23:48",
-          "artist": "Giga feat.初音ミク & GUMI",
-          "song": "GETCHA!"
-        },
-        {
-          "timecode": "29:59",
-          "artist": "samfree feat.巡音ルカ",
-          "song": "ルカルカ★ナイトフィーバー"
-        },
-        {
-          "timecode": "35:49",
-          "artist": "バルーン feat.flower",
-          "song": "花瓶に触れた"
-        },
-        {
-          "timecode": "1:00:24",
-          "artist": "ハチ feat.初音ミク & GUMI",
-          "song": "マトリョシカ"
-        },
-        {
-          "timecode": "1:05:17",
-          "artist": "黒うさP feat.初音ミク",
-          "song": "千本桜"
-        },
-        {
-          "timecode": "1:11:16",
-          "artist": "オワタP feat.鏡音レン",
-          "song": "パラジクロロベンゼン"
-        },
-        {
-          "timecode": "1:17:17",
-          "artist": "千石撫子(花澤香菜)",
-          "song": "恋愛サーキュレーション"
-        }
-      ]
+      {
+        "timecode": "12:42",
+        "artist": "じん feat.IA",
+        "song": "アウターサイエンス"
+      },
+      {
+        "timecode": "17:49",
+        "artist": "じん feat.IA",
+        "song": "夜咄ディセイブ"
+      },
+      {
+        "timecode": "23:48",
+        "artist": "Giga feat.初音ミク & GUMI",
+        "song": "GETCHA!"
+      },
+      {
+        "timecode": "29:59",
+        "artist": "samfree feat.巡音ルカ",
+        "song": "ルカルカ★ナイトフィーバー"
+      },
+      {
+        "timecode": "35:49",
+        "artist": "バルーン feat.flower",
+        "song": "花瓶に触れた"
+      },
+      {
+        "timecode": "1:00:24",
+        "artist": "ハチ feat.初音ミク & GUMI",
+        "song": "マトリョシカ"
+      },
+      {
+        "timecode": "1:05:17",
+        "artist": "黒うさP feat.初音ミク",
+        "song": "千本桜"
+      },
+      {
+        "timecode": "1:11:16",
+        "artist": "オワタP feat.鏡音レン",
+        "song": "パラジクロロベンゼン"
+      },
+      {
+        "timecode": "1:17:17",
+        "artist": "千石撫子(花澤香菜)",
+        "song": "恋愛サーキュレーション"
+      }
     ]
   },
   {
