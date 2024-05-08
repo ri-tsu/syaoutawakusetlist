@@ -1,5 +1,56 @@
 [
   {
+    "date": "2024-05-08T05:46:03Z",
+    "vid": "gkNN5uGsQOM",
+    "setlist": [
+      {
+        "timecode": "4:29",
+        "artist": "サザンオールスターズ",
+        "song": "いとしのエリー"
+      },
+      {
+        "timecode": "11:04",
+        "artist": "大塚愛",
+        "song": "さくらんぼ"
+      },
+      {
+        "timecode": "23:24",
+        "artist": "大塚愛",
+        "song": "黒毛和牛上塩タン焼680円"
+      },
+      {
+        "timecode": "29:35",
+        "artist": "ClariS",
+        "song": "ナイショの話"
+      },
+      {
+        "timecode": "40:51",
+        "artist": "とあ feat.初音ミク",
+        "song": "ツギハギスタッカート"
+      },
+      {
+        "timecode": "46:48",
+        "artist": "放課後ティータイム",
+        "song": "私の恋はホッチキス"
+      },
+      {
+        "timecode": "57:27",
+        "artist": "MARETU feat.初音ミク",
+        "song": "スヂ"
+      },
+      {
+        "timecode": "1:08:32",
+        "artist": "ゆちゃP feat.GUMI",
+        "song": "ポーカーフェイス"
+      },
+      {
+        "timecode": "1:12:52",
+        "artist": "相対性理論",
+        "song": "地獄先生"
+      }
+    ]
+  },
+  {
     "date": "2024-05-06T01:45:53Z",
     "vid": "Nuo59hjpCvk",
     "setlist": [
@@ -7578,7 +7629,7 @@
       },
       {
         "timecode": "1:58:25",
-        "artist": "とあ",
+        "artist": "とあ feat.初音ミク",
         "song": "ツギハギスタッカート"
       }
     ]
@@ -10409,7 +10460,7 @@
       },
       {
         "timecode": "0:22:18",
-        "artist": "MARETU",
+        "artist": "MARETU feat.初音ミク",
         "song": "スヂ"
       },
       {
