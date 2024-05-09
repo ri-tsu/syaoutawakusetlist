@@ -1,5 +1,51 @@
 [
   {
+    "date": "2024-05-09T02:30:04Z",
+    "vid": "y-iYlXLZXXE",
+    "setlist": [
+      {
+        "timecode": "9:39",
+        "artist": "キロ",
+        "song": "ハートビートミュージック"
+      },
+      {
+        "timecode": "15:32",
+        "artist": "とあ feat.初音ミク",
+        "song": "ミュージックミュージック"
+      },
+      {
+        "timecode": "21:38",
+        "artist": "桜島麻衣(瀬戸麻沙美)、古賀朋絵(東山奈央)、双葉理央(種﨑敦美)、豊浜のどか(内田真礼)、梓川かえで(久保ユリカ)、牧之原翔子(水瀬いのり)",
+        "song": "不可思議のカルテ"
+      },
+      {
+        "timecode": "30:53",
+        "artist": "Creepy Nuts",
+        "song": "Bling-Bang-Bang-Born"
+      },
+      {
+        "timecode": "36:42",
+        "artist": "秦基博",
+        "song": "ひまわりの約束"
+      },
+      {
+        "timecode": "43:07",
+        "artist": "黒うさP feat.初音ミク",
+        "song": "千本桜"
+      },
+      {
+        "timecode": "49:18",
+        "artist": "紅色リトマス",
+        "song": "凛として咲く花の如し"
+      },
+      {
+        "timecode": "59:05",
+        "artist": "じーざすP",
+        "song": "リモコン"
+      }
+    ]
+  },
+  {
     "date": "2024-05-08T05:46:03Z",
     "vid": "gkNN5uGsQOM",
     "setlist": [
@@ -7599,7 +7645,7 @@
       },
       {
         "timecode": "1:15:55",
-        "artist": "とあ",
+        "artist": "とあ feat.初音ミク",
         "song": "ミュージックミュージック"
       },
       {
