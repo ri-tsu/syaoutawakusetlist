@@ -1,5 +1,51 @@
 [
   {
+    "date": "2024-05-13T01:55:21Z",
+    "vid": "0I_qmqpPr4U",
+    "setlist": [
+      {
+        "timecode": "6:00",
+        "artist": "中島みゆき",
+        "song": "系"
+      },
+      {
+        "timecode": "12:24",
+        "artist": "Re:nG feat.初音ミク",
+        "song": "貴方に花を 私に唄を"
+      },
+      {
+        "timecode": "17:13",
+        "artist": "大塚愛",
+        "song": "さくらんぼ"
+      },
+      {
+        "timecode": "22:18",
+        "artist": "ZONE",
+        "song": "secret base～君がくれたもの～"
+      },
+      {
+        "timecode": "30:08",
+        "artist": "中島みゆき",
+        "song": "銀の龍の背に乗って"
+      },
+      {
+        "timecode": "37:30",
+        "artist": "TOKIO",
+        "song": "宙船"
+      },
+      {
+        "timecode": "42:48",
+        "artist": "ササノマリイ",
+        "song": "戯言スピーカー"
+      },
+      {
+        "timecode": "51:46",
+        "artist": "ヨルシカ",
+        "song": "言って"
+      }
+    ]
+  },
+  {
     "date": "2024-05-11T18:12:15Z",
     "vid": "K_RpPBJ5dpo",
     "setlist": [
@@ -7903,7 +7949,7 @@
       },
       {
         "timecode": "2:18:32",
-        "artist": "真宮寺さくら(横山智佐)＆帝国歌劇団",
+        "artist": "真宮寺さくら(横山智佐)&帝国歌劇団",
         "song": "檄!帝国華撃団"
       },
       {
@@ -8050,7 +8096,7 @@
       {
         "timecode": "1:04:40",
         "artist": "Nem",
-        "song": "怪盗ピーター＆ジェニイ"
+        "song": "怪盗ピーター&ジェニイ"
       },
       {
         "timecode": "1:11:44",
@@ -8816,7 +8862,7 @@
       },
       {
         "timecode": "1:03:28",
-        "artist": "yunomi＆nicomoq",
+        "artist": "yunomi&nicomoq",
         "song": "インドア系ならトラックメイカー"
       },
       {
@@ -12054,7 +12100,7 @@
       {
         "timecode": "1:12:23",
         "artist": "MI8k",
-        "song": "ラブ＆デストロイ"
+        "song": "ラブ&デストロイ"
       },
       {
         "timecode": "1:17:46",
