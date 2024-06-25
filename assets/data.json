@@ -1,5 +1,51 @@
 [
   {
+    "date": "2024-06-24T09:00:47Z",
+    "vid": "y-aaWLqmyDQ",
+    "setlist": [
+      {
+        "timecode": "8:07",
+        "artist": "wowaka feat.初音ミク",
+        "song": "ローリンガール"
+      },
+      {
+        "timecode": "40:07",
+        "artist": "菅田将暉",
+        "song": "さよならエレジー"
+      },
+      {
+        "timecode": "49:45",
+        "artist": "Mitchie M feat.初音ミク",
+        "song": "好き!雪!本気マジック"
+      },
+      {
+        "timecode": "53:45",
+        "artist": "EasyPop",
+        "song": "Girls"
+      },
+      {
+        "timecode": "1:01:36",
+        "artist": "supercell feat.初音ミク",
+        "song": "ブラック★ロックシューター"
+      },
+      {
+        "timecode": "1:08:16",
+        "artist": "syudou feat.初音ミク",
+        "song": "コールボーイ"
+      },
+      {
+        "timecode": "1:13:25",
+        "artist": "蝶々P feat.GUMI",
+        "song": "心做し"
+      },
+      {
+        "timecode": "1:24:04",
+        "artist": "supercell feat. 初音ミク",
+        "song": "初めての恋が終わる時"
+      }
+    ]
+  },
+  {
     "date": "2024-06-10T10:00:49Z",
     "vid": "IMImyHtZVT8",
     "setlist": [
