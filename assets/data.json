@@ -1,5 +1,51 @@
 [
   {
+    "date": "2024-06-26T00:00:47Z",
+    "vid": "T3reFJtOueU",
+    "setlist": [
+      {
+        "timecode": "10:22",
+        "artist": "doriko feat.初音ミク",
+        "song": "ロミオとシンデレラ"
+      },
+      {
+        "timecode": "18:33",
+        "artist": "こんにちは谷田さん feat.鏡音リン",
+        "song": "悪魔の踊り方"
+      },
+      {
+        "timecode": "30:40",
+        "artist": "ヒグチアイ",
+        "song": "悪魔の子"
+      },
+      {
+        "timecode": "40:56",
+        "artist": "小沢健二",
+        "song": "今夜はブギー・バック"
+      },
+      {
+        "timecode": "50:46",
+        "artist": "Creepy Nuts",
+        "song": "Bling-Bang-Bang-Born"
+      },
+      {
+        "timecode": "55:00",
+        "artist": "nobodyknows+",
+        "song": "ココロオドル"
+      },
+      {
+        "timecode": "1:01:04",
+        "artist": "ポルノグラフィティ",
+        "song": "アゲハ蝶"
+      },
+      {
+        "timecode": "1:21:09",
+        "artist": "大塚愛",
+        "song": "黒毛和牛上塩タン焼680円"
+      }
+    ]
+  },
+  {
     "date": "2024-06-24T09:00:47Z",
     "vid": "y-aaWLqmyDQ",
     "setlist": [
