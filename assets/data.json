@@ -1,5 +1,254 @@
 [
   {
+    "date": "2025-01-13T01:01:12Z",
+    "vid": "_Nw6mQ_nYL8",
+    "setlist": [
+      {
+        "timecode": "11:13",
+        "artist": "DECO*27 feat.初音ミク",
+        "song": "罪と罰"
+      },
+      {
+        "timecode": "16:03",
+        "artist": "ポリスピカデリー",
+        "song": "Beat Eater"
+      },
+      {
+        "timecode": "43:44",
+        "artist": "MAISONdes feat.花譜、ツミキ",
+        "song": "トウキョウ・シャンディ・ランデヴ"
+      },
+      {
+        "timecode": "52:02",
+        "artist": "梅とら feat.巡音ルカ、初音ミク、GUMI、IA、鏡音リン",
+        "song": "虎視眈々"
+      },
+      {
+        "timecode": "57:12",
+        "artist": "ギガP feat.GUMI",
+        "song": "Masked bitcH"
+      },
+      {
+        "timecode": "1:01:58",
+        "artist": "HIMEHINA",
+        "song": "愛包ダンスホール"
+      },
+      {
+        "timecode": "1:10:35",
+        "artist": "Creepy Nuts",
+        "song": "Bling-Bang-Bang-Born"
+      },
+      {
+        "timecode": "1:16:45",
+        "artist": "蜂屋ななし feat.初音ミク",
+        "song": "シャボン"
+      },
+      {
+        "timecode": "1:21:37",
+        "artist": "蜂屋ななし feat.初音ミク、GUMI",
+        "song": "ライムライト"
+      },
+      {
+        "timecode": "1:27:54",
+        "artist": "有機酸",
+        "song": "カフネ"
+      },
+      {
+        "timecode": "1:32:06",
+        "artist": "有機酸",
+        "song": "quiet room"
+      },
+      {
+        "timecode": "1:37:41",
+        "artist": "有機酸",
+        "song": "カトラリー"
+      },
+      {
+        "timecode": "1:44:43",
+        "artist": "有機酸",
+        "song": "spray"
+      },
+      {
+        "timecode": "1:49:04",
+        "artist": "有機酸",
+        "song": "退紅トレイン"
+      },
+      {
+        "timecode": "1:55:23",
+        "artist": "小倉唯",
+        "song": "Baby Sweet Berry Love"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-07T14:45:09Z",
+    "vid": "G91IXMoScVY",
+    "setlist": [
+      {
+        "timecode": "4:08",
+        "artist": "ゆうゆ feat.初音ミク",
+        "song": "クローバー♣クラブ"
+      },
+      {
+        "timecode": "9:51",
+        "artist": "黒うさ feat.初音ミク",
+        "song": "サンキューロック"
+      },
+      {
+        "timecode": "34:11",
+        "artist": "syudou feat.初音ミク",
+        "song": "ジャックポットサッドガール"
+      },
+      {
+        "timecode": "41:56",
+        "artist": "ゴゼンP feat.MEIKO、巡音ルカ",
+        "song": "Scarlet M∞N"
+      },
+      {
+        "timecode": "48:56",
+        "artist": "miroir",
+        "song": "O-Ku-Ri-Mo-No Sunday!"
+      },
+      {
+        "timecode": "57:58",
+        "artist": "dezzy feat.鏡音リン・レン",
+        "song": "リンレン宇宙盗賊団"
+      },
+      {
+        "timecode": "1:02:31",
+        "artist": "山下達郎",
+        "song": "RIDE ON TIME"
+      },
+      {
+        "timecode": "1:08:18",
+        "artist": "dezzy feat.鏡音リン・レン",
+        "song": "ハッピーライフカーニバル"
+      },
+      {
+        "timecode": "1:14:21",
+        "artist": "なつめ千秋 feat.GUMI",
+        "song": "センチメンタルな愛慕心"
+      },
+      {
+        "timecode": "1:21:09",
+        "artist": "ナナヲアカリ feat.Sou",
+        "song": "チューリングラブ"
+      },
+      {
+        "timecode": "1:38:10",
+        "artist": "Fire Bomber",
+        "song": "SEVENTH MOON"
+      },
+      {
+        "timecode": "1:44:54",
+        "artist": "syudou feat.初音ミク・可不",
+        "song": "デイバイデイズ"
+      },
+      {
+        "timecode": "1:48:54",
+        "artist": "すこっぷP feat.初音ミク",
+        "song": "トップシークレット"
+      },
+      {
+        "timecode": "2:06:04",
+        "artist": "Stereopony",
+        "song": "ヒトヒラのハナビラ"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-05T15:33:34Z",
+    "vid": "JEZE7vLNbto",
+    "setlist": [
+      {
+        "timecode": "51:46",
+        "artist": "みきとP feat.初音ミク",
+        "song": "アカイト"
+      },
+      {
+        "timecode": "58:46",
+        "artist": "みきとP feat.初音ミク",
+        "song": "サリシノハラ"
+      },
+      {
+        "timecode": "1:03:55",
+        "artist": "みきとP feat.初音ミク",
+        "song": "ヨンジュウナナ"
+      },
+      {
+        "timecode": "1:12:34",
+        "artist": "MI8k feat.GUMI",
+        "song": "アクシデントコーディネイター"
+      },
+      {
+        "timecode": "1:18:48",
+        "artist": "MI8k feat.闇音レンリ",
+        "song": "絶対的少年値"
+      },
+      {
+        "timecode": "1:23:19",
+        "artist": "MI8k feat.VY1",
+        "song": "イン・レインボウズ"
+      },
+      {
+        "timecode": "1:27:53",
+        "artist": "ナポリP feat.GUMI",
+        "song": "ラブ&デストロイ"
+      },
+      {
+        "timecode": "1:35:27",
+        "artist": "sasakure.UK feat.GUMI",
+        "song": "カムパネルラ"
+      },
+      {
+        "timecode": "1:41:10",
+        "artist": "チーム\"ハナヤマタ\"",
+        "song": "花ハ踊レヤいろはにほ"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-02T14:55:17Z",
+    "vid": "WZ4VkR026xw",
+    "setlist": [
+      {
+        "timecode": "1:10:29",
+        "artist": "Vaundy",
+        "song": "怪獣の花唄"
+      },
+      {
+        "timecode": "1:16:40",
+        "artist": "芹沢文乃(伊藤かな恵)、梅ノ森千世(井口裕香)、霧谷希(竹達彩奈)",
+        "song": "はっぴぃ にゅう にゃあ"
+      },
+      {
+        "timecode": "1:27:42",
+        "artist": "土居裕子",
+        "song": "いぬのおまわりさん"
+      },
+      {
+        "timecode": "1:34:35",
+        "artist": "緑李しゃお",
+        "song": "Memories"
+      },
+      {
+        "timecode": "1:40:54",
+        "artist": "莉津 feat.可不",
+        "song": "%"
+      },
+      {
+        "timecode": "1:45:41",
+        "artist": "弌誠",
+        "song": "モエチャッカファイア"
+      },
+      {
+        "timecode": "1:54:31",
+        "artist": "女王蜂",
+        "song": "メフィスト"
+      }
+    ]
+  },
+  {
     "date": "2024-12-20T10:30:18Z",
     "vid": "yD0U5rc9n7w",
     "setlist": [
@@ -581,7 +830,7 @@
     "setlist": [
       {
         "timecode": "4:28",
-        "artist": "syudou  feat.初音ミク",
+        "artist": "syudou feat.初音ミク",
         "song": "ジャックポットサッドガール"
       },
       {
@@ -8418,12 +8667,12 @@
     "setlist": [
       {
         "timecode": "22:14",
-        "artist": "sea-no feat.初音ミク-",
+        "artist": "sea-no feat.初音ミク",
         "song": "温室魔法"
       },
       {
         "timecode": "35:13",
-        "artist": "黒うさ feat.初音ミク-",
+        "artist": "黒うさ feat.初音ミク",
         "song": "サンキューロック"
       },
       {
@@ -8438,7 +8687,7 @@
       },
       {
         "timecode": "49:57",
-        "artist": "みきとP feat.初音ミク-",
+        "artist": "みきとP feat.初音ミク",
         "song": "心臓デモクラシー"
       },
       {
