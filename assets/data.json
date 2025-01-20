@@ -1,5 +1,61 @@
 [
   {
+    "date": "2025-01-16T14:45:07Z",
+    "vid": "1P_HTJ4yy-k",
+    "setlist": [
+      {
+        "timecode": "16:40",
+        "artist": "miroir",
+        "song": "O-Ku-Ri-Mo-No Sunday!"
+      },
+      {
+        "timecode": "22:33",
+        "artist": "藍月なくる",
+        "song": "FAKE IDOL"
+      },
+      {
+        "timecode": "27:47",
+        "artist": "DECO*27 feat.初音ミク",
+        "song": "アニマル"
+      },
+      {
+        "timecode": "31:29",
+        "artist": "じん feat. IA",
+        "song": "アウターサイエンス"
+      },
+      {
+        "timecode": "49:29",
+        "artist": "wowaka feat. 初音ミク",
+        "song": "アンハッピーリフレイン"
+      },
+      {
+        "timecode": "54:15",
+        "artist": "高橋洋子",
+        "song": "魂のルフラン"
+      },
+      {
+        "timecode": "1:00:58",
+        "artist": "高橋洋子",
+        "song": "残酷な天使のテーゼ"
+      },
+      {
+        "timecode": "1:05:51",
+        "artist": "赤い鳥",
+        "song": "翼をください"
+      },
+      {
+        "timecode": "1:19:51",
+        "artist": "宇多田ヒカル",
+        "song": "One Last Kiss"
+      },
+      {
+        "timecode": "1:25:06",
+        "artist": "弌誠",
+        "song": "モエチャッカファイア"
+      }
+    ]
+  },
+  {
     "date": "2025-01-13T01:01:12Z",
     "vid": "_Nw6mQ_nYL8",
     "setlist": [
